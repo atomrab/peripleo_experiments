@@ -3,14 +3,14 @@
   "map_style": "./map-style-OSM.json",
   "data": [
     {
-      "name": "Pleiades",
+      "name": "VisitPlus",
       "format": "LINKED_PLACES",
       "src": "./data/Peripleo_Data_1702398948.json",
       "attribution": "VisitPlus © <a href=\"https://britishlibrary.github.io/locating-a-national-collection/\" target=\"_blank\"><i>Locating a National Collection</i> Partners & Contributors</a>"
     }
   ],
   "facets": [
-    "types"
+    "type"
   ],
   "link_icons": [
     { "pattern": "maps.google.com",  "img": "./logos/maps.google.com.png", "label": "Google Maps" },
